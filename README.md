@@ -6,3 +6,5 @@ ademas ya pude inicializar git
 
 
 juliana Peralta
+
+cambio de rama de main a mater obligatorio
